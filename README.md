@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
