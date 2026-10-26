@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
