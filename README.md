@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1446-consecutive-characters](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
