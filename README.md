@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0503-next-greater-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
