@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
