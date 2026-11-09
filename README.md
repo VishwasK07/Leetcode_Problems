@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0503-next-greater-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
