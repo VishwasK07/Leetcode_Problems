@@ -101,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
