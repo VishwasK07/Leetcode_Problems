@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1470-shuffle-the-array](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
