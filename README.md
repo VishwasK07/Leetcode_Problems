@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0647-palindromic-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0100-same-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
