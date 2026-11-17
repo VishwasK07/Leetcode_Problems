@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Union-Find
 |  |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
