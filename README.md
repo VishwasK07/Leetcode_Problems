@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
