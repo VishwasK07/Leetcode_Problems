@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -153,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
