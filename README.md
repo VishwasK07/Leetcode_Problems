@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
