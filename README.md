@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2485-find-the-pivot-integer](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
 | ------- |
@@ -167,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
