@@ -1,13 +1,19 @@
 class Solution {
 public:
     int pivotInteger(int n) {
-        int total = n * (n + 1) / 2;
-        int lSum = 0;
-        for (int i = 1; i <= n; i++) {
-            lSum += i;
-            int rSum = total - lSum + i;
-            if (lSum == rSum) {
-                return i;
+        long long total = 1LL * n * (n + 1) / 2;
+        int low = 1;
+        int high = n;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            long long square = 1LL * mid * mid;
+
+            if (square == total) {
+                return mid;
+            } else if (square < total) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
         return -1;
