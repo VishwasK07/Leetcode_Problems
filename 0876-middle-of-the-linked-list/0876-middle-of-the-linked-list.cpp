@@ -11,13 +11,19 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while(fast!=NULL && fast->next!=NULL){
-            slow = slow ->next;
-            fast= fast->next->next;
+        ListNode* mover = head;
+        int n = 0;
+        while (mover != NULL) {
+            mover = mover->next;
+            n++;
         }
-        return slow;
-        
+        n = n / 2;
+        mover = head;
+        while (n != 0) {
+            mover = mover->next;
+            n--;
+        }
+        return mover;
     }
 };
+// Brute force approach
