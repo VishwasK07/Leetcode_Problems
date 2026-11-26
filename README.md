@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
