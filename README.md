@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
