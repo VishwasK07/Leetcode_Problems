@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -138,16 +139,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/VishwasK07/Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
