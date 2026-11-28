@@ -4,21 +4,16 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         int count = 0;
-        for (int i = 0; i < m; i++) {
-            int low = 0;
-            int high = n - 1;
-            int firstNegative = n;
+        int row = m - 1;
+        int col = 0;
 
-            while (low <= high) {
-                int mid = low + (high - low) / 2;
-                if (grid[i][mid] < 0) {
-                    firstNegative = mid;
-                    high = mid - 1;
-                } else {
-                    low = mid + 1;
-                }
+        while (row >= 0 && col < n) {
+            if (grid[row][col] >= 0) {
+                col++;
+            } else {
+                count += (n - col);
+                row--;
             }
-            count += n - firstNegative;
         }
         return count;
     }
