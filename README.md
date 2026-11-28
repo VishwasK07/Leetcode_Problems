@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Counting
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VishwasK07/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Quicksort
 |  |
 | ------- |
